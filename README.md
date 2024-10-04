@@ -15,7 +15,7 @@ This analysis aims to explore the relationship between various demographic, fina
 
 ## Distribution of Credit Card Approval by gender
 
-![Distribution of Credit Card Approval by gender](https:)
+![Distribution of Credit Card Approval by gender](https://github.com/alexxcode/CreditCardApproval/blob/main/images/gender.png)
 
 **Key observations:**
 
@@ -28,7 +28,7 @@ This chart suggests that the dataset is heavily skewed towards females, with rou
 
 ## Distribution of Credit Card Approval by car ownership
 
-![Distribution of Credit Card Approval by car ownership](https:)
+![Distribution of Credit Card Approval by car ownership](https://github.com/alexxcode/CreditCardApproval/blob/main/images/car.png)
 
 **Key observations:**
 
@@ -42,7 +42,7 @@ This chart suggests that around 60% of individuals in the dataset do not own a c
 
 ## Distribution of Credit Card Approval by home ownership
 
-![Distribution of Credit Card Approval by home ownership](https:)
+![Distribution of Credit Card Approval by home ownership](https://github.com/alexxcode/CreditCardApproval/blob/main/images/house.png)
 
 **Key observations:**
 
@@ -55,7 +55,7 @@ This chart suggests that around 67% of individuals in the dataset own a house, w
 
 
 ## Relationship between the number of children and total income
-![Relationship between the number of children and total income](https:)
+![Relationship between the number of children and total income](https://github.com/alexxcode/CreditCardApproval/blob/main/images/relationship.png)
 
 **Key observations:**
 
@@ -69,7 +69,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Number of Children
-![Distribution of Credit Card Approvals by Number of Children](https:)
+![Distribution of Credit Card Approvals by Number of Children](https://github.com/alexxcode/CreditCardApproval/blob/main/images/children.png)
 
 **Key observations:**
 
@@ -84,7 +84,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Income Category
-![Distribution of Credit Card Approvals by Income Category](https:)
+![Distribution of Credit Card Approvals by Income Category](https://github.com/alexxcode/CreditCardApproval/blob/main/images/income.png)
 
 **Key observations:**
 
@@ -96,7 +96,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Education Level
-![Distribution of Credit Card Approvals by Education Level](https:)
+![Distribution of Credit Card Approvals by Education Level](https://github.com/alexxcode/CreditCardApproval/blob/main/images/education.png)
 
 **Key observations:**
 
@@ -108,7 +108,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Marital Status
-![Distribution of Credit Card Approvals by Marital Status](https:)
+![Distribution of Credit Card Approvals by Marital Status](https://github.com/alexxcode/CreditCardApproval/blob/main/images/marital.png)
 
 **Key observations:**
 
@@ -120,7 +120,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by House Type
-![Distribution of Credit Card Approvals by House Type](https:)
+![Distribution of Credit Card Approvals by House Type](https://github.com/alexxcode/CreditCardApproval/blob/main/images/HouseType.png)
 
 **Key observations:**
 
@@ -132,7 +132,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Work Phone Possession
-![Distribution of Credit Card Approvals by Work Phone Possession](https:)
+![Distribution of Credit Card Approvals by Work Phone Possession](https://github.com/alexxcode/CreditCardApproval/blob/main/images/workphone.png)
 
 **Key observations:**
 
@@ -142,7 +142,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Phone Possession
-![Distribution of Credit Card Approvals by Phone Possession](https:)
+![Distribution of Credit Card Approvals by Phone Possession](https://github.com/alexxcode/CreditCardApproval/blob/main/images/phone.png)
 
 **Key observations:**
 
@@ -152,7 +152,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals based on whether applicants have an email address 
-![Distribution of Credit Card Approvals by Email](https:)
+![Distribution of Credit Card Approvals by Email](https://github.com/alexxcode/CreditCardApproval/blob/main/images/email.png)
 
 **Key observations:**
 
@@ -162,7 +162,7 @@ Specific Observations:
 
 
 ## Distribution of Credit Card Approvals by Family Members
-![Distribution of Credit Card Approvals by Family Members](https:)
+![Distribution of Credit Card Approvals by Family Members](https://github.com/alexxcode/CreditCardApproval/blob/main/images/fammembers.png)
 
 **Key observations:**
 
